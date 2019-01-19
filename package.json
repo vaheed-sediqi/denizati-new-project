@@ -1,0 +1,15 @@
+{
+  "name": "marco",
+  "version": "1.0.0",
+  "description": "denizati incek project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Vahid sediqi",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.6",
+    "node-sass": "^4.11.0"
+  }
+}
